@@ -18,6 +18,7 @@ I'm an enormous fan of documentation, procedures, scripting, and learning about 
 
 
 !Details
+
 !! Check out my resume here:
 
 !! And some of my documentation here:
